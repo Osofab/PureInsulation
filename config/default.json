@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://localhost:27017/pure_insulation",
+    "jwtSecret": "yoursecretkey",
+    "port": 5000
+  }

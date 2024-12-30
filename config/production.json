@@ -1,0 +1,5 @@
+{
+    "mongoURI": "your_production_mongo_uri",
+    "jwtSecret": "your_production_jwt_secret",
+    "port": 80
+  }
